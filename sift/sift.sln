@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sift-test1", "sift-test1\sift-test1.vcxproj", "{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}.Debug|Win32.Build.0 = Debug|Win32
+		{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}.Release|Win32.ActiveCfg = Release|Win32
+		{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
