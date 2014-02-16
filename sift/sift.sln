@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sift-test1", "sift-test1\sift-test1.vcxproj", "{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "detector", "detector\detector.vcxproj", "{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,14 @@ Global
 		{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}.Release|Win32.Build.0 = Release|Win32
 		{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}.Release|x64.ActiveCfg = Release|x64
 		{1ADD7DA9-9240-4F28-A104-2E49CBB830AF}.Release|x64.Build.0 = Release|x64
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Debug|Win32.Build.0 = Debug|Win32
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Debug|x64.ActiveCfg = Debug|x64
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Debug|x64.Build.0 = Debug|x64
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Release|Win32.ActiveCfg = Release|Win32
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Release|Win32.Build.0 = Release|Win32
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Release|x64.ActiveCfg = Release|x64
+		{6C2C397A-1AE8-45D7-8E79-8FD5BF5040D9}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
